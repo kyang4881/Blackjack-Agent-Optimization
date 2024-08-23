@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kyang4881/KYGit/blob/master/Reinforcement%20Learning%20Projects/Blackjack%20Game/docs/images/blackjack.jpg" width="1200" />
+  <img src="https://github.com/kyang4881/Blackjack-Agent-Optimization/docs/images/blackjack.jpg" width="1200" />
 </p>
 
 ---
@@ -628,13 +628,13 @@ rewards1, avg_reward1, tracker1 = test(env=env, agent=agent1, verbose=True, num_
 Visualize the performance
 
 <p align="left">
-  <img src="https://github.com/kyang4881/KYGit/blob/master/Reinforcement%20Learning%20Projects/Blackjack%20Game/docs/images/blackjack_agent_performance.png" width="800" />
+  <img src="https://github.com/kyang4881/Blackjack-Agent-Optimization/docs/images/blackjack_agent_performance.png" width="800" />
 </p>
 
 Visualize the player's actions
 
 <p align="left">
-  <img src="https://github.com/kyang4881/KYGit/blob/master/Reinforcement%20Learning%20Projects/Blackjack%20Game/docs/images/blackjack_agent_player_actions.png" width="800" />
+  <img src="https://github.com/kyang4881/Blackjack-Agent-Optimization/docs/images/blackjack_agent_player_actions.png" width="800" />
 </p>
 
 
@@ -744,13 +744,13 @@ rewards2, avg_reward2, tracker2 = test(env=env, agent=agent2, verbose=True, num_
 Visualize the performance
 
 <p align="left">
-  <img src="https://github.com/kyang4881/KYGit/blob/master/Reinforcement%20Learning%20Projects/Blackjack%20Game/docs/images/blackjack_agent_performance_monte_carlo.png" width="800" />
+  <img src="https://github.com/kyang4881/Blackjack-Agent-Optimization/docs/images/blackjack_agent_performance_monte_carlo.png" width="800" />
 </p>
 
 Visualize the player's actions
 
 <p align="left">
-  <img src="https://github.com/kyang4881/KYGit/blob/master/Reinforcement%20Learning%20Projects/Blackjack%20Game/docs/images/blackjack_agent_player_actions_monte_carlo.png" width="800" />
+  <img src="https://github.com/kyang4881/Blackjack-Agent-Optimization/docs/images/blackjack_agent_player_actions_monte_carlo.png" width="800" />
 </p>
 
 
